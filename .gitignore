@@ -1,0 +1,9 @@
+.vscode
+
+*.pyc
+*.png
+*.jpg
+
+data/
+metadata/
+wkg/
