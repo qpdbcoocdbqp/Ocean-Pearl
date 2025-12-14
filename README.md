@@ -45,3 +45,9 @@ uv pip install pylette
 Put hex to console:
 
 * [main](src/main.py)
+
+```sh
+python -m src.main
+```
+
+![console](docs/imgs/readme_console.png)
